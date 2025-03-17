@@ -16,8 +16,7 @@ const artworks: Artwork[] = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2_2025-03-13_16-05-26.jpg-8PIIuQQnTACk2cP023J7LkUG0qhc7V.jpeg",
     thumbnail:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2_2025-03-13_16-05-26.jpg-8PIIuQQnTACk2cP023J7LkUG0qhc7V.jpeg",
-    description:
-      "A surreal exploration of tranquility, where reality and dreams merge over a cup of tea. The artwork captures a moment of peaceful suspension, with traditional objects dancing in a contemporary space.",
+    description: "A surreal blend of dreams and reality over a cup of tea.",
   },
   {
     id: 2,
@@ -26,8 +25,7 @@ const artworks: Artwork[] = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_4_2025-03-13_16-05-26.jpg-oF7PRHU9F8GmwwbMk7LClMBfAhZfRU.jpeg",
     thumbnail:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_4_2025-03-13_16-05-26.jpg-oF7PRHU9F8GmwwbMk7LClMBfAhZfRU.jpeg",
-    description:
-      "A serene portrait capturing the quiet strength of reflection, adorned in luxurious fabrics that bridge tradition and modernity against the backdrop of a luminous moon.",
+    description: "A serene portrait of reflection under a luminous moon.",
   },
   {
     id: 3,
@@ -36,8 +34,7 @@ const artworks: Artwork[] = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_3_2025-03-13_16-05-26.jpg-3HhZJ9lbtINJpNM7Kdxv0asbmSiAQH.jpeg",
     thumbnail:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_3_2025-03-13_16-05-26.jpg-3HhZJ9lbtINJpNM7Kdxv0asbmSiAQH.jpeg",
-    description:
-      "An ethereal figure stands in solitude, draped in pure white against a vibrant forest backdrop, creating a powerful contrast between serenity and nature's wild beauty.",
+    description: "A lone figure in white contrasts with the wild forest.",
   },
   {
     id: 4,
@@ -46,10 +43,10 @@ const artworks: Artwork[] = [
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5_2025-03-13_16-05-26.jpg-SmNQSGL5GEf3NQCRXPtH35nb9SFalV.jpeg",
     thumbnail:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_5_2025-03-13_16-05-26.jpg-SmNQSGL5GEf3NQCRXPtH35nb9SFalV.jpeg",
-    description:
-      "A contemplative scene merging human presence with architectural grandeur, where golden domes pierce the sky as a solitary figure rests in quiet observation.",
+    description: "A solitary figure gazes at golden domes touching the sky.",
   },
 ];
+
 
 export default function ArtGallery() {
   // State
